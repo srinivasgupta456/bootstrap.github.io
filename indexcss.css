@@ -1,0 +1,35 @@
+.content1{
+	background-color: #f1f1f1;
+	padding:0% 12%;
+	margin-top:5%;
+	height:100vh;
+}
+.video{
+	margin-left: -10%;
+}
+.height{
+	height:100vh;
+}
+.text{
+	padding-right: 40%;
+	padding-left: 40%;
+	padding-top: 1%;
+	padding-bottom:1%;
+	border:none;
+}
+.box{
+	background-color:white;
+	padding-top:7%;
+	padding-left: 5%;
+	padding-right: 10%;
+	padding-bottom:7%;
+	width:8%;
+}
+.box P{
+	padding-top:5%;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    border-left: 4px solid blue;
+ 	background-color: #ADD8E6;
+}
